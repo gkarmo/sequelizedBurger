@@ -1,0 +1,44 @@
+.body {
+    background-color:#f3c9a3;
+  }
+.mypic {
+    height:300px;
+}
+.head {
+    text-align: center;
+}
+
+.input-row { 
+    text-align: center
+}
+
+.title {
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+#burg {
+    height: 50px;
+    width: 300px;
+}
+
+.button1 {
+    display: inline-block;
+    padding: 5px 13px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: red;
+    border: none;
+    border-radius: 15px;
+  }
+
+  .button2 {
+    display: inline-block;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color: green;
+    border-radius: 9px;
+  }
